@@ -1,6 +1,8 @@
-# Nakiyah_Assignment4
+# Nakiyah Assignment 4
 
-## Purpose of this project:
+[![CI](https://github.com/nogibjj/Nakiyah_Assignment4/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Nakiyah_Assignment4/actions/workflows/cicd.yml)
+
+ Purpose of this project:
 - Set up a Gitlab Actions workflow
 - Test across at least 3 different Python versions
 
